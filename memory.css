@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.grid {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 200px;
+}
+
+.grid img {
+    width: 30%;
+    cursor: pointer;
+    border: 1px solid white;
+}
